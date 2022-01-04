@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #DESCRIPTION: Class assignment wk11 second question
-#AUTHOR: Banks
+#AUTHOR: Oumae
 #DATE: Dec/10/2021
 
 
