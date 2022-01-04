@@ -2,7 +2,7 @@
 #!/bin/bash
 
 #DESCRIPTION: Class assignment wk11 second question
-#AUTHOR: Banks
+#AUTHOR: Oumar
 #DATE: Dec/10/2021
 
 
